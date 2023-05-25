@@ -2,8 +2,8 @@
 
 ## AIM:
    To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/b551f195-9877-49a2-99bb-a9efcfb3381a)
+## DATE:
+<img height=30% width=50% src="https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/b551f195-9877-49a2-99bb-a9efcfb3381a">
 
 ## REQUIREMENTS:
 ●	System - Windows 7 or higher, 1 GB RAM.
@@ -25,12 +25,11 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+<img height=70% width=100% src="https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a">  
+<img height=20% width=50% src="https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec">
 
 ## Output:
-![Screenshot 2023-05-18 183016](https://github.com/ROHITJAIND/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118707073/204e6651-f90d-4ace-9216-b2d78c4cc0a9)
+<img height=40% width=60% src="https://github.com/ROHITJAIND/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118707073/204e6651-f90d-4ace-9216-b2d78c4cc0a9">
 
 
 ### Name: ROHIT JAIN D
